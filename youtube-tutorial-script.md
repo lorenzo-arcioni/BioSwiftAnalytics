@@ -18,6 +18,8 @@ So, whether you're a biologist, a bioinformatician, or anyone interested in anal
 our Jupyter notebooks are a great tool to have in your toolkit. We hope you find the tutorials helpful, and we encourage you to try our notebooks 
 and provide us feedback and suggestions for improvement. 
 
+I will leave the GitHub link in the description, and in the upcoming tutroial I'll explain step-by-step how to use these amazing tools.
+
 Thanks for watching!
 
 ## Jupyter notebook for enhanced annotation result interpretation
