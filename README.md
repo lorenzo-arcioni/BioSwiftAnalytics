@@ -1,7 +1,4 @@
-# BLAST-OUT-postprocessing jupyter notebooks
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lorenzo-arcioni/BLAST-OUT-postprocessing/HEAD)
-
-# Biological Data Analysis Repository
+# Biological Data Analysis Repository [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lorenzo-arcioni/BLAST-OUT-postprocessing/HEAD)
 
 Welcome to the Biological Data Analysis repository! This repository contains a collection of Jupyter notebooks designed to simplify the analysis of biological data.
 
