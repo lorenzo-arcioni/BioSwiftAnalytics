@@ -30,6 +30,19 @@ This notebook is able to interpret tab-separated value (TSV) files resulting fro
 
 ### 6. OrthoFinder result plots: A Jupyter Notebook for generating meaningful graphs and plots about your OrthoFinder data
 
+OrthoFinder provides various information and results that are valuable for the analysis of orthologous gene families across different genomes.
+With this notebook you can generate meaningful insight based on OrthoFinder results data. 
+
+In particular, you can:
+
+1. **Orthologous Gene Groups Venn diagram:** OrthoFinder identifies orthologous gene groups, which are sets of genes that share a common evolutionary ancestry and perform similar functions in different species. These groups are referred to as "ortholog clusters. The notebook can generate a Venn diagram that collect all Orthogroups.
+
+2. **Phylogenetic Trees:** For each ortholog cluster, OrthoFinder generates phylogenetic trees that depict the evolutionary relationships among orthologous genes in different species. This notebook provide a graphical representation of tree-based evolutionary relationships.
+
+3. **Orthologue multiplicity:** It quantifies how many orthologous genes from different species are grouped together due to their shared evolutionary ancestry and similar functions. With this notebook you can plot these informations in a graphical way through a multi-label barplot.
+
+4. **Descriptive Statistics:** OrthoFinder offers descriptive statistics, such as the total number of ortholog clusters, the number of clusters with one gene from each species, and other useful metrics. This notebook can create a summary table with all these statistics.
+
 
 ## Uploading Files from Your Local Filesystem
 
