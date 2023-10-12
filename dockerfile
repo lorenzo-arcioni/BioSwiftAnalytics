@@ -3,10 +3,10 @@ RUN apt-get update && \
     apt-get install -y python3.9 python3-pip && \
     apt-get clean
  
-RUN useradd -ms /bin/bash jupyter
-RUN mkdir /home/jupyter/results
-RUN mkdir /home/jupyter/data
-RUN mkdir /home/jupyter/notebooks
+RUN useradd -ms /bin/bash jupyter && \
+    mkdir /home/jupyter/results && \
+    mkdir /home/jupyter/data && \
+    mkdir /home/jupyter/notebooks
 
 COPY ./*.ipynb /home/jupyter/notebooks/
 COPY requirements.txt /home/jupyter
