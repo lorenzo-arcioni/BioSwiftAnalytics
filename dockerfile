@@ -14,7 +14,7 @@ COPY requirements.txt /home/jupyter
 RUN pip3 install jupyter && pip3 install -r /home/jupyter/requirements.txt
 
 USER jupyter
-WORKDIR home/jupyter
+WORKDIR /home/jupyter
 
 EXPOSE 8888                                           
 ENTRYPOINT ["jupyter", "notebook","--allow-root","--ip='*'","--port=8888","--no-browser", "--NotebookApp.token=''", "--NotebookApp.password=''"]
