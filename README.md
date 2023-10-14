@@ -110,11 +110,17 @@ In particular, you can:
 <img src="./Images/stats-overall.png" height=400px style="margin-left: 40px">
 
 
-## Uploading Files from Your Local Filesystem
+## Quick start
 
-1. **Click on the Binder Link**: Start by clicking on the Binder link provided in the repository's README. This will launch a virtual Jupyter Lab environment in your web browser.
+You can use these post-processing and analysis tools in two main modes:
 
-2. **Access Jupyter Lab**: Once the Jupyter Lab environment is loaded, you will have access to a Jupyter Lab interface.
+1. **Docker image installation**: ou can download the package (Docker image) containing all these tools and the Jupyter runtime environment using this command.
+
+    ```sh
+    docker pull lorenzoarcioni/bioswiftanalysis
+    ```
+
+2. **Google Colab execution**: Once the Jupyter Lab environment is loaded, you will have access to a Jupyter Lab interface.
 
 3. **Upload Files**:
     - In the Jupyter Lab interface, navigate to the directory where you want to upload files.
