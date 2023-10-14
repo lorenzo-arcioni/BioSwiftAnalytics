@@ -122,7 +122,7 @@ You can use these post-processing and analysis tools in two main modes:
     ```
     Once the image is downloaded you are ready to run the container!
     ```sh
-    docker run -p 8888:8888 -v $(pwd)/results:/home/jupyter/results -v $(pwd)/data/:/home/jupyter/data bioswiftanalysis &
+    docker run -p 8888:8888 -v $(pwd)/results:/home/jupyter/results/ -v $(pwd)/data/:/home/jupyter/data bioswiftanalysis &
     ```
     *Note that you can choose other ports instead of 8888:.*
 
@@ -131,12 +131,12 @@ You can use these post-processing and analysis tools in two main modes:
     #### Container and local filesystem
 
     The container has two main directories:
-    - The input data directory */home/jupyter/data* .
-    - The output data directory */home/jupyter/results* .
+    - The input data directory */home/jupyter/data/* .
+    - The output data directory */home/jupyter/results/* .
 
-    That are linked with your **\$(pwd)/data/** and **\$(pwd)/results** on your local filesystem.
+    That are linked with your **\$(pwd)/data/** and **\$(pwd)/results/** on your local filesystem.
 
-    This two directories allows you to transfer data for analysis into the container (by copying them to the directory **\$(pwd)/data/**) and obtain results (graphs, tables, etc.) directly on the local filesystem (in the directory **\$(pwd)/results**). 
+    This two directories allows you to transfer data for analysis into the container (by copying them to the directory **\$(pwd)/data/**) and obtain results (graphs, tables, etc.) directly on the local filesystem (in the directory **\$(pwd)/results/**). 
 
 
 2. **Google Colab execution**: Once the Jupyter Lab environment is loaded, you will have access to a Jupyter Lab interface.
