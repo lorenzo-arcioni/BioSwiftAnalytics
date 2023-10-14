@@ -1,0 +1,30 @@
+# BUSCO version is: 5.4.7 
+# The lineage dataset is: chlorophyta_odb10 (Creation date: 2020-08-05, number of genomes: 16, number of BUSCOs: 1519)
+# Summarized benchmarking in BUSCO notation for file /g100_scratch/userexternal/larcioni/test_download_ncbi/Chlorophyta/Bathycoccus_prasinos_4/GCA_029293465.1/GCA_029293465.1_ASM2929346v1_genomic.fna
+# BUSCO was run in mode: euk_genome_met
+# Gene predictor used: metaeuk
+
+	***** Results: *****
+
+	C:61.3%[S:60.6%,D:0.7%],F:1.4%,M:37.3%,n:1519	   
+	931	Complete BUSCOs (C)			   
+	921	Complete and single-copy BUSCOs (S)	   
+	10	Complete and duplicated BUSCOs (D)	   
+	21	Fragmented BUSCOs (F)			   
+	567	Missing BUSCOs (M)			   
+	1519	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	1615	Number of scaffolds
+	2155	Number of contigs
+	8892781	Total length
+	0.120%	Percent gaps
+	5 KB	Scaffold N50
+	4 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	bbtools: 39.01
+	metaeuk: 6.a5d39d9
+	busco: 5.4.7

@@ -62,11 +62,19 @@ Thanks to this notebook, it is possible to create these graphs with user data us
 
 ### 6. MultiVenn: A Jupyter Notebook for Comparing Annotation Results Across Databases Using Venn Diagrams
 
+**Input:** Species specific Diamond/BLAST annotation TSV results across multiple databases.
+
 Venn diagrams are a powerful visualization tool used in many areas of research, including bioinformatics. They are typically used to show the overlap between different sets or categories of data. In the context of omics data analysis, Venn diagrams can help identify common or unique hits across multiple databases or analyses, providing insights into the relationships between different datasets. In addition to the traditional Venn diagram, there are also variations such as Euler diagrams and Edwards-Venn diagrams, which can provide different types of visual representations of the data.
+
+<img src="./Images/multivenn.png">
+<br>
+<br>
 
 This notebook is able to interpret tab-separated value (TSV) files resulting from annotation software (BLAST/Diamond) and allows the generation of Venn diagrams that visualize the distribution of hits for each sequence in different databases. This allows biologists or bioinformaticians to verify the common hits among databases and how the matches are distributed.
 
 ### 7. OrthoFinder result plots: A Jupyter Notebook for generating meaningful graphs and plots about your OrthoFinder data
+
+**Input:** OrthoFinder results directory.
 
 OrthoFinder provides various information and results that are valuable for the analysis of orthologous gene families across different genomes.
 With this notebook you can generate meaningful insight based on OrthoFinder results data. 
@@ -75,11 +83,19 @@ In particular, you can:
 
 1. **Orthologous Gene Groups Venn diagram:** OrthoFinder identifies orthologous gene groups, which are sets of genes that share a common evolutionary ancestry and perform similar functions in different species. These groups are referred to as "ortholog clusters. The notebook can generate a Venn diagram that collect all Orthogroups.
 
+<img src="./Images/orthogroups.png" height=400px style="margin-left: 40px">
+
 2. **Phylogenetic Trees:** For each ortholog cluster, OrthoFinder generates phylogenetic trees that depict the evolutionary relationships among orthologous genes in different species. This notebook provide a graphical representation of tree-based evolutionary relationships.
+
+<img src="./Images/phylo-tree.png" height=400px style="margin-left: 40px">
 
 3. **Orthologue multiplicity:** It quantifies how many orthologous genes from different species are grouped together due to their shared evolutionary ancestry and similar functions. With this notebook you can plot these informations in a graphical way through a multi-label barplot.
 
+<img src="./Images/multiplicity-barplot.png" height=400px style="margin-left: 40px">
+
 4. **Descriptive Statistics:** OrthoFinder offers descriptive statistics, such as the total number of ortholog clusters, the number of clusters with one gene from each species, and other useful metrics. This notebook can create a summary table with all these statistics.
+
+<img src="./Images/stats-overall.png" height=400px style="margin-left: 40px">
 
 
 ## Uploading Files from Your Local Filesystem
