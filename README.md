@@ -1,3 +1,5 @@
+<img src="./Images/logo.svg">
+
 # BioSwiftAnalytics
 
 **Welcome to the Biological Data Analysis repository!**
