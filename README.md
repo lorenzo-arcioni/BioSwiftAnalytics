@@ -15,8 +15,9 @@ This repository contains a collection of Jupyter notebooks designed to simplify 
 **Input:** Input transcriptome (pep and cds) and Diamond/BLAST alignment  results (in TSV format).
 
 This notebook analyzes the hit percentages for sequences across various databases. It evaluates the performance of a database in comparison to an input transcriptome. The notebook accepts a Fasta-format transcriptome file and a TSV-format alignment output from tools like Diamond or BLAST. It calculates hit percentages and generates a summary table, aiding users in assessing database coverage and specificity. This analysis helps select the most suitable database for a specific analysis.
-
+<p align="center">
 <img src="./Images/rate.png">
+</p>
 
 ### 2. AnnoReport: Multi-database Annotation Summary
 
@@ -57,22 +58,24 @@ This notebook leverages the scripts developed by the BUSCO analysis software dev
 **Synteny:**
 Synteny refers to the conservation of the order and arrangement of genes or genomic sequences between two different species. A synteny graph shows how genomic regions or specific genes are arranged in the two species under examination. This type of graph allows for the comparison of genetic homology between different species and the identification of conserved regions throughout evolution.
 
+<p align="center">
 <img src="./Images/synteny_plot.png" height=250px>
-
+</p>
 <br>
 
 **Biological Markers:**
 Biological markers, also known as molecular markers, are DNA or protein sequences used to identify specific genetic or genomic features. In synteny graphs, biological markers can be gene sequences, genomic regions, or other relevant features. These markers can be used to identify correspondences between species or to highlight events of gene duplication, inversion, translocation, or other genomic changes.
 
+<p align="center">
 <img src="./Images/markers_plot.png" height=300px>
-
+</p>
 <br>
 
 **Phylogenomic tree:**
 A phylogenomic tree is a type of tree diagram used to represent the evolutionary relationships between different species or groups of organisms. It is constructed based on a wide range of genetic and genomic data, typically derived from DNA or protein sequences. Phylogenomic trees provide insights into the evolutionary history and relatedness of species, helping scientists understand how different organisms are genetically connected.
-
+<p align="center">
 <img src="./Images/phyl_tree.png" height=250px>
-
+</p>
 Thanks to this notebook, it is possible to create these graphs with user data using the R kernel installed in the notebook.
 
 
@@ -81,8 +84,9 @@ Thanks to this notebook, it is possible to create these graphs with user data us
 **Input:** Species specific Diamond/BLAST annotation TSV results across multiple databases.
 
 Venn diagrams are a powerful visualization tool used in many areas of research, including bioinformatics. They are typically used to show the overlap between different sets or categories of data. In the context of omics data analysis, Venn diagrams can help identify common or unique hits across multiple databases or analyses, providing insights into the relationships between different datasets. In addition to the traditional Venn diagram, there are also variations such as Euler diagrams and Edwards-Venn diagrams, which can provide different types of visual representations of the data.
-
+<p align="center">
 <img src="./Images/multivenn.png">
+</p>
 <br>
 <br>
 
@@ -98,21 +102,24 @@ With this notebook you can generate meaningful insight based on OrthoFinder resu
 In particular, you can:
 
 1. **Orthologous Gene Groups Venn diagram:** OrthoFinder identifies orthologous gene groups, which are sets of genes that share a common evolutionary ancestry and perform similar functions in different species. These groups are referred to as "ortholog clusters. The notebook can generate a Venn diagram that collect all Orthogroups.
-
+<p align="center">
 <img src="./Images/orthogroups.png" height=400px style="margin-left: 40px">
+</p>
 
 2. **Phylogenetic Trees:** For each ortholog cluster, OrthoFinder generates phylogenetic trees that depict the evolutionary relationships among orthologous genes in different species. This notebook provide a graphical representation of tree-based evolutionary relationships.
-
+<p align="center">
 <img src="./Images/phylo-tree.png" height=400px style="margin-left: 40px">
+</p>
 
 3. **Orthologue multiplicity:** It quantifies how many orthologous genes from different species are grouped together due to their shared evolutionary ancestry and similar functions. With this notebook you can plot these informations in a graphical way through a multi-label barplot.
-
+<p align="center">
 <img src="./Images/multiplicity-barplot.png" height=400px style="margin-left: 40px">
+</p>
 
 4. **Descriptive Statistics:** OrthoFinder offers descriptive statistics, such as the total number of ortholog clusters, the number of clusters with one gene from each species, and other useful metrics. This notebook can create a summary table with all these statistics.
-
+<p align="center">
 <img src="./Images/stats-overall.png" height=400px style="margin-left: 40px">
-
+</p>
 
 ## Quick start
 
@@ -143,40 +150,10 @@ You can use these post-processing and analysis tools in two main modes:
     The container has two main directories:
     - The input data directory */home/jupyter/data/* .
     - The output data directory */home/jupyter/results/* .
+    - The Notebooks directory */home/jupyter/notebooks/*
 
     That are linked with your **\$(pwd)/data/** and **\$(pwd)/results/** on your local filesystem.
 
-    This two directories allows you to transfer data for analysis into the container (by copying them to the directory **\$(pwd)/data/**) and obtain results (graphs, tables, etc.) directly on the local filesystem (in the directory **\$(pwd)/results/**). 
-
-
-2. **Google Colab execution**: Once the Jupyter Lab environment is loaded, you will have access to a Jupyter Lab interface.
-
-## Transferring Files from an HPC Cluster Using `scp`
-
-1. **Access Jupyter Lab on Binder**: Follow the steps mentioned above to launch Jupyter Lab on Binder.
-
-2. **Open a Terminal in Jupyter Lab**:
-    - In Jupyter Lab, click on "File" in the top menu.
-    - Select "New" and then choose "Terminal."
-    - This will open a terminal window within Jupyter Lab.
-
-3. **Use `scp` Command for File Transfer**:
-    - To transfer files from an HPC cluster to your Jupyter Lab environment, use the `scp` command.
-    - The basic syntax for copying a file from a remote server to your Jupyter Lab environment is as follows:
-      ```bash
-      scp username@remote_server:/path/to/remote/file ./files/
-      ```
-      Replace `username`, `remote_server`, `/path/to/remote/file`, and `./files/` with the appropriate values.
-    
-4. **Download Files from HPC to Jupyter Lab**:
-    - Execute the `scp` command in the Jupyter Lab terminal, and it will copy the file from the HPC cluster to your Jupyter Lab environment.
-    
-5. **Access Your Downloaded Files**:
-    - Once the file transfer is complete, you can access and work with the downloaded files within Jupyter Lab.
-
-Please note that for using `scp`, you need to have appropriate access and credentials to the remote HPC cluster. Ensure that you replace placeholders in the `scp` command with actual values relevant to your setup.
-
-With these steps, you can seamlessly manage files, upload from your local filesystem, and transfer files to and from an HPC cluster while working in the Jupyter Lab environment on Binder.
-
+    This two directories allows you to transfer data for analysis into the container (by copying them to the directory **\$(pwd)/data/**) and obtain results (graphs, tables, etc.) directly on the local filesystem (in the directory **\$(pwd)/results/**).
 
 Happy analyzing!
