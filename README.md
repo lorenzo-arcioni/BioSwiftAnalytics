@@ -1,4 +1,6 @@
-<img src="./Images/logo.svg">
+<p align="center">
+<img src="./Images/bioswiftanalytics-logo.jpg" width=700px >
+</p>
 
 # BioSwiftAnalytics
 
