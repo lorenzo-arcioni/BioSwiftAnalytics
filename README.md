@@ -125,6 +125,12 @@ You can use these post-processing and analysis tools in two main modes:
     docker pull lorenzoarcioni/bioswiftanalysis
     ```
     Once the image is downloaded you are ready to run the container!
+
+    ```sh
+    # Create first these two directories to link the container filesystem to the local filesystem
+    mkdir data
+    mkdir results
+    ```
     ```sh
     docker run -p 8888:8888 -v $(pwd)/results:/home/jupyter/results/ -v $(pwd)/data/:/home/jupyter/data bioswiftanalysis &
     ```
