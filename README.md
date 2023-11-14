@@ -126,6 +126,7 @@ In particular, you can:
 You can use these post-processing and analysis tools in two main modes:
 
 1. ### Docker installation
+
     You can download the package (Docker image) containing all these tools and the Jupyter runtime environment using this command.
 
     ```sh
@@ -155,5 +156,46 @@ You can use these post-processing and analysis tools in two main modes:
     That are linked with your **\$(pwd)/data/** and **\$(pwd)/results/** on your local filesystem.
 
     This two directories allows you to transfer data for analysis into the container (by copying them to the directory **\$(pwd)/data/**) and obtain results (graphs, tables, etc.) directly on the local filesystem (in the directory **\$(pwd)/results/**).
+
+    <p align="center">
+    <img src="./Images/jupyter-article-img.jpg" height=600px style="margin-left: 40px">
+    </p>
+
+2. ### Use all notebooks in your Jupyter environment
+
+    You can download the last software release for downloading the latest version of all analysis notebook.
+
+    Once downloaded the tar.gz archive, extract the archive with the following command
+    ```sh
+    tar -xzf [name of the archive] -C [name of the extraction directory]
+    ```
+
+    Once extracted, simply open the notebook with your Jupyter environment!
+
+    *Note that the notebooks are developed with the same filesystem structure of the docker filesystem.*
+
+## A simple illustration of software expected filesystem
+```sh
+your_current_directory/
+|-- notebooks/
+|   |-- AnnoRate.ipynb/
+|   |-- AnnoReport.ipynb/
+|   |-- AnnoViz.ipynb
+|   |-- busco-base-plot.ipynb
+|   |-- busco-advanced-plot.ipynb
+|   |-- GO_analysis.ipynb
+|   |-- GO_plot.ipynb
+|   |-- MultiVenn.ipynb
+|   |-- Orthofinder-plot.ipynb
+|
+|-- data/
+|   |-- config/
+|       |-- settings.conf
+|
+|-- results/
+|   |-- logs/
+|       |-- log1.txt
+|       |-- log2.txt
+```
 
 Happy analyzing!
