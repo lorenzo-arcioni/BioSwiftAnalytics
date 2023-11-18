@@ -4,7 +4,7 @@
 
 Welcome to this series of tutorials on how to use Jupyter notebooks for analyzing annotation results!
 
-If you're working in the field of biology or bioinformatics, probably you know that analyzing annotation data can be a challenging task. 
+If you're working in the field of biology or bioinformatics, probably you know that analyzing this kind of data can be a challenging task. 
 So that's why we've created a set of Jupyter notebooks that can help you streamline the analysis process and generate meaningful insights from your annotation results.
 
 These notebooks are a set of tools designed to assist the researcher in the analysis of annotation results obtained from homology searches of protein databases. 
