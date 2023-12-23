@@ -1,9 +1,8 @@
 FROM ubuntu:latest
 RUN apt-get update && \
     apt-get install -y python3.9 python3-pip && \
-    apt-get clean
- 
-RUN useradd -ms /bin/bash jupyter && \
+    apt-get clean && \
+    useradd -ms /bin/bash jupyter && \
     mkdir /home/jupyter/results && \
     mkdir /home/jupyter/data && \
     mkdir /home/jupyter/notebooks
