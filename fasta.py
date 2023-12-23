@@ -1,38 +1,4 @@
-import sys
-
-from optparse import OptionParser
-
-outfmt    = "\"6 qseqid sseqid slen qstart qend length mismatch gapopen gaps sseq\""
-inputfile = ""
-diamond   = 0
-
-def init():
-	global outfmt
-	global inputfile
-	global diamond
-	
-	parser = OptionParser()
-	parser.add_option("-o", "--output", dest="filename_o",
-		          help="output file name", metavar="FILE")
-	parser.add_option("-f", "--outformat", dest="filename_outfmt",
-		          help="output file format", metavar="FILE")
-	parser.add_option("-i", "--input", dest="filename_i",
-		          help="input file name", metavar="FILE")
-	parser.add_option("-d", "--diamond", dest="filename_d",
-		          help="using diamond", metavar="FILE")
-
-	(options, args) = parser.parse_args()
-
-	if options.filename_o != None:
-		sys.stdout = open(options.filename_o, 'w') 
-	if options.filename_i != None:
-		sys.stdin = open(options.filename_i, 'r')
-		inputfile = options.filename_i
-	if options.filename_outfmt != None:
-		outfmt = options.filename_outfmt
-	if options.filename_d != None:
-		diamond = options.filename_d
-	
+import sys	
 
 def get_multiple_strand_from_fasta(path: str):
 	'''

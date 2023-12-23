@@ -1,0 +1,207 @@
+qseqid	sseqid	pident	slen	stitle	length	evalue	tool	database
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	EDS44166.1	89.7	566	EDS44166.1 conserved hypothetical protein [Culex quinquefasciatus]	136	3.6700000000000004e-71	blastp	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	XP_052565833.1	87.8	339	XP_052565833.1 uncharacterized protein LOC128093356 [Culex pipiens pallens]	82	9.21e-39	blastp	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	XP_019547211.2	29.5	510	XP_019547211.2 uncharacterized protein LOC109417622 [Aedes albopictus]	271	1.6e-18	blastp	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	EDS43817.1	25.7	555	EDS43817.1 conserved hypothetical protein [Culex quinquefasciatus]	265	3.2e-16	blastp	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	XP_039441240.1	25.3	575	XP_039441240.1 uncharacterized protein LOC120421994 [Culex pipiens pallens]	265	8.16e-16	blastp	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	XP_038113868.1	25.7	575	XP_038113868.1 uncharacterized protein LOC6036475 [Culex quinquefasciatus]	265	1.5e-15	blastp	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	XP_052565832.1	25.0	490	XP_052565832.1 uncharacterized protein LOC128093355 [Culex pipiens pallens]	216	6.25e-09	blastp	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	EDS44167.1	24.9	490	EDS44167.1 conserved hypothetical protein [Culex quinquefasciatus]	217	2.06e-08	blastp	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	XP_039432563.1	94.2	565	XP_039432563.1 juvenile hormone esterase-like [Culex pipiens pallens]	240	6.29e-151	blastp	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	XP_001864622.2	90.8	566	XP_001864622.2 cholinesterase 1 [Culex quinquefasciatus]	240	2.6e-145	blastp	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	EDS40467.1	90.4	566	EDS40467.1 esterase FE4 [Culex quinquefasciatus]	240	1.05e-144	blastp	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	XP_038109200.1	54.5	574	XP_038109200.1 esterase E4 [Culex quinquefasciatus]	233	6.14e-77	blastp	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	XP_039449043.1	53.2	574	XP_039449043.1 juvenile hormone esterase-like [Culex pipiens pallens]	233	1.34e-75	blastp	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	EDS28751.1	52.8	711	EDS28751.1 juvenile hormone esterase [Culex quinquefasciatus]	233	9.350000000000001e-73	blastp	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	KFB48524.1	54.9	580	KFB48524.1 AGAP005837-PA-like protein [Anopheles sinensis]	235	1.0100000000000001e-72	blastp	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	XP_035910509.1	53.4	579	XP_035910509.1 esterase E4-like [Anopheles stephensi]	236	1.3900000000000001e-72	blastp	NR
+Cluster-8.0_NODE_28859_length_464_cov_4.000000_g17746_i0.p1	EDS32713.1	98.1	1648	EDS32713.1 conserved hypothetical protein [Culex quinquefasciatus]	154	1.55e-64	blastp	NR
+Cluster-8.0_NODE_28859_length_464_cov_4.000000_g17746_i0.p1	XP_039433362.1	96.8	1648	XP_039433362.1 uncharacterized protein LOC120415804 [Culex pipiens pallens]	154	2.11e-64	blastp	NR
+Cluster-8.0_NODE_28859_length_464_cov_4.000000_g17746_i0.p1	KXJ77414.1	64.7	1520	KXJ77414.1 hypothetical protein RP20_CCG007671 [Aedes albopictus]	68	8.06e-14	blastp	NR
+Cluster-8.0_NODE_28859_length_464_cov_4.000000_g17746_i0.p1	EAT38793.1	58.8	1534	EAT38793.1 AAEL009355-PA [Aedes aegypti]	68	2.47e-10	blastp	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	EDS29594.1	96.0	526	EDS29594.1 cytochrome P450 [Culex quinquefasciatus]	149	8.05e-91	blastp	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	XP_038116655.1	95.3	431	XP_038116655.1 cytochrome P450 4V2 [Culex quinquefasciatus]	149	4.13e-89	blastp	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	XP_039440771.1	61.8	502	XP_039440771.1 cytochrome P450 4c21-like [Culex pipiens pallens]	136	4.36e-50	blastp	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	XP_001849069.2	61.8	505	XP_001849069.2 cytochrome P450 4c21 [Culex quinquefasciatus]	136	9.05e-50	blastp	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	EDS29595.1	61.0	499	EDS29595.1 cytochrome P450 4V2 [Culex quinquefasciatus]	136	1.6e-49	blastp	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	XP_039440770.1	59.2	498	XP_039440770.1 cytochrome P450 4V2-like [Culex pipiens pallens]	147	1.35e-46	blastp	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	EDS29597.1	59.2	498	EDS29597.1 cytochrome P450 4g15 [Culex quinquefasciatus]	147	1.8899999999999998e-46	blastp	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	XP_001849071.2	59.2	498	XP_001849071.2 cytochrome P450 4V2 [Culex quinquefasciatus]	147	7.279999999999999e-46	blastp	NR
+Cluster-15.0_NODE_26048_length_585_cov_5.757194_g15264_i0.p1	XP_039451360.1	99.5	506	XP_039451360.1 fibrinogen C domain-containing protein 1-like [Culex pipiens pallens]	195	1.68e-89	blastp	NR
+Cluster-15.0_NODE_26048_length_585_cov_5.757194_g15264_i0.p1	XP_039450538.1	99.5	506	XP_039450538.1 fibrinogen C domain-containing protein 1-like [Culex pipiens pallens]	195	1.68e-89	blastp	NR
+Cluster-15.0_NODE_26048_length_585_cov_5.757194_g15264_i0.p1	XP_001849696.2	98.5	504	XP_001849696.2 fibrinogen C domain-containing protein 1 [Culex quinquefasciatus]	195	7.14e-88	blastp	NR
+Cluster-15.0_NODE_26048_length_585_cov_5.757194_g15264_i0.p1	EDS30697.1	93.3	504	EDS30697.1 angiopoietin-4 [Culex quinquefasciatus]	195	7.170000000000001e-79	blastp	NR
+Cluster-15.0_NODE_26048_length_585_cov_5.757194_g15264_i0.p1	XP_001648766.1	40.2	442	XP_001648766.1 fibrinogen-like protein 1 [Aedes aegypti]	174	5.1e-25	blastp	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	XP_001849904.2	95.5	393	XP_001849904.2 uncharacterized protein LOC6040518 [Culex quinquefasciatus]	134	9.53e-88	blastp	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	EDS31027.1	94.8	393	EDS31027.1 conserved hypothetical protein [Culex quinquefasciatus]	134	1.5500000000000001e-86	blastp	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	EDS35496.1	73.6	386	EDS35496.1 conserved hypothetical protein [Culex quinquefasciatus]	129	1.08e-63	blastp	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	XP_038117163.1	72.9	377	XP_038117163.1 uncharacterized protein LOC6033568 [Culex quinquefasciatus]	129	6.76e-63	blastp	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	XP_039436891.2	71.3	386	XP_039436891.2 uncharacterized protein LOC120418521 [Culex pipiens pallens]	129	1.93e-61	blastp	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	XP_029721883.1	66.4	381	XP_029721883.1 uncharacterized protein LOC115263109 [Aedes albopictus]	134	2.3899999999999998e-61	blastp	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	XP_029721877.1	66.4	381	XP_029721877.1 uncharacterized protein LOC115263103 [Aedes albopictus]	134	2.3899999999999998e-61	blastp	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	XP_021698437.1	65.9	398	XP_021698437.1 uncharacterized protein LOC5574154 [Aedes aegypti]	132	1.05e-60	blastp	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	XP_038114270.1	95.8	349	XP_038114270.1 uncharacterized protein LOC119768039 [Culex quinquefasciatus]	191	3.03e-83	blastp	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	XP_039450100.1	95.9	349	XP_039450100.1 uncharacterized protein LOC120429030 [Culex pipiens pallens]	193	7.37e-79	blastp	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	EDS34439.1	89.7	215	EDS34439.1 predicted protein [Culex quinquefasciatus]	87	4.24e-37	blastp	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	XP_029708712.1	55.7	391	XP_029708712.1 uncharacterized protein LOC109420547 [Aedes albopictus]	97	5.89e-14	blastp	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	EAT34624.1	53.6	250	EAT34624.1 AAEL013148-PA [Aedes aegypti]	97	7.64e-13	blastp	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	XP_050078014.1	60.3	363	XP_050078014.1 uncharacterized protein LOC126564931 [Anopheles maculipalpis]	73	2.24e-12	blastp	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	XP_050095587.1	49.5	367	XP_050095587.1 uncharacterized protein LOC126577751 [Anopheles aquasalis]	99	2.29e-12	blastp	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	XP_021702407.1	53.6	385	XP_021702407.1 uncharacterized protein LOC5577296 [Aedes aegypti]	97	2.49e-12	blastp	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	XP_001845721.2	95.7	356	XP_001845721.2 trypsin-1 [Culex quinquefasciatus]	138	1.0700000000000001e-86	blastp	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	XP_052561988.1	97.1	1718	XP_052561988.1 uncharacterized protein LOC120415828 [Culex pipiens pallens]	139	8.95e-82	blastp	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	EDS41410.1	97.0	685	EDS41410.1 trypsin eta [Culex quinquefasciatus]	132	3.53e-80	blastp	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	XP_019561987.2	55.4	358	XP_019561987.2 trypsin-1-like [Aedes albopictus]	92	6.3099999999999994e-24	blastp	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	EAT40773.1	60.0	358	EAT40773.1 AAEL007519-PA [Aedes aegypti]	75	1.2299999999999998e-23	blastp	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	XP_001658406.2	58.7	358	XP_001658406.2 trypsin-1 [Aedes aegypti]	75	4.6199999999999997e-23	blastp	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	XP_040220907.2	52.7	351	XP_040220907.2 trypsin-1-like [Anopheles coluzzii]	93	1.14e-22	blastp	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	XP_052863784.1	64.3	1692	XP_052863784.1 LOW QUALITY PROTEIN: transmembrane protease serine 9-like [Anopheles cruzii]	70	1.4100000000000001e-22	blastp	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	XP_001845721.2	98.6	356	XP_001845721.2 trypsin-1 [Culex quinquefasciatus]	148	2.48e-101	blastp	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	EDS41410.1	99.3	685	EDS41410.1 trypsin eta [Culex quinquefasciatus]	148	6.219999999999999e-98	blastp	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	XP_052561988.1	99.3	1718	XP_052561988.1 uncharacterized protein LOC120415828 [Culex pipiens pallens]	148	3.37e-93	blastp	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	XP_019561987.2	80.4	358	XP_019561987.2 trypsin-1-like [Aedes albopictus]	148	1.24e-79	blastp	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	EAT40773.1	78.9	358	EAT40773.1 AAEL007519-PA [Aedes aegypti]	147	1.63e-77	blastp	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	XP_001658406.2	78.9	358	XP_001658406.2 trypsin-1 [Aedes aegypti]	147	1.63e-77	blastp	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	CAA89994.1	71.6	250	CAA89994.1 serine proteinase, partial [Anopheles gambiae]	148	4.1199999999999995e-74	blastp	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	XP_313873.5	71.6	283	XP_313873.5 AGAP004568-PA, partial [Anopheles gambiae str. PEST]	148	1.17e-73	blastp	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	XP_039441887.2	99.4	1396	XP_039441887.2 serine protease filzig [Culex pipiens pallens]	178	9.36e-107	blastp	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	XP_038113039.1	99.4	1321	XP_038113039.1 serine protease filzig [Culex quinquefasciatus]	174	1.6200000000000002e-103	blastp	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	EDS45199.1	98.9	1290	EDS45199.1 serine protease [Culex quinquefasciatus]	174	4.4100000000000004e-103	blastp	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	XP_039452120.2	97.7	1192	XP_039452120.2 serine protease filzig-like [Culex pipiens pallens]	174	5.57e-100	blastp	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	EAT35004.1	69.8	881	EAT35004.1 AAEL012797-PA [Aedes aegypti]	182	3.16e-72	blastp	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	XP_029709065.1	72.5	1379	XP_029709065.1 serine protease lint [Aedes albopictus]	182	1.07e-71	blastp	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	EAT37779.1	69.8	1309	EAT37779.1 AAEL010267-PA, partial [Aedes aegypti]	182	4.67e-71	blastp	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	XP_021702122.1	69.8	1344	XP_021702122.1 mucin-5AC isoform X2 [Aedes aegypti]	182	4.91e-71	blastp	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	XP_052565644.1	97.4	1302	XP_052565644.1 nuclear receptor coactivator 6-like isoform X1 [Culex pipiens pallens]	116	2.5899999999999998e-42	blastp	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	EDS45812.1	100.0	1174	EDS45812.1 conserved hypothetical protein [Culex quinquefasciatus]	52	6.37e-25	blastp	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	EAT40892.1	77.5	1134	EAT40892.1 AAEL007430-PA, partial [Aedes aegypti]	120	6.709999999999999e-23	blastp	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	XP_021698176.1	77.5	1249	XP_021698176.1 mucin-5AC [Aedes aegypti]	120	6.74e-23	blastp	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	XP_035786839.1	70.7	1364	XP_035786839.1 mucin-5AC-like [Anopheles albimanus]	116	9.07e-18	blastp	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	XP_050095302.1	67.2	1357	XP_050095302.1 mucin-5AC-like [Anopheles aquasalis]	116	2.03e-16	blastp	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	XP_041771976.1	65.3	1321	XP_041771976.1 mucin-2-like isoform X2 [Anopheles merus]	121	7.02e-16	blastp	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	XP_041771974.1	65.3	1325	XP_041771974.1 mucin-2-like isoform X1 [Anopheles merus]	121	7.02e-16	blastp	NR
+Cluster-38.0_NODE_15049_length_1363_cov_3.633433_g7847_i0.p1	XP_039433362.1	85.9	1648	XP_039433362.1 uncharacterized protein LOC120415804 [Culex pipiens pallens]	469	1.36e-169	blastp	NR
+Cluster-38.0_NODE_15049_length_1363_cov_3.633433_g7847_i0.p1	EDS32713.1	85.7	1648	EDS32713.1 conserved hypothetical protein [Culex quinquefasciatus]	469	7.26e-169	blastp	NR
+Cluster-38.0_NODE_15049_length_1363_cov_3.633433_g7847_i0.p1	EAT38793.1	27.3	1534	EAT38793.1 AAEL009355-PA [Aedes aegypti]	344	1.59e-14	blastp	NR
+Cluster-38.0_NODE_15049_length_1363_cov_3.633433_g7847_i0.p1	KXJ77414.1	26.0	1520	KXJ77414.1 hypothetical protein RP20_CCG007671 [Aedes albopictus]	338	1.04e-10	blastp	NR
+Cluster-38.1_NODE_28328_length_485_cov_2.938596_g17255_i0.p1	XP_039433362.1	94.4	1648	XP_039433362.1 uncharacterized protein LOC120415804 [Culex pipiens pallens]	162	7.679999999999999e-60	blastp	NR
+Cluster-38.1_NODE_28328_length_485_cov_2.938596_g17255_i0.p1	EDS32713.1	93.8	1648	EDS32713.1 conserved hypothetical protein [Culex quinquefasciatus]	162	1.05e-59	blastp	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	EDS44166.1	89.7	566	EDS44166.1 conserved hypothetical protein [Culex quinquefasciatus]	136	3.6700000000000004e-71	blastx	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	XP_052565833.1	87.8	339	XP_052565833.1 uncharacterized protein LOC128093356 [Culex pipiens pallens]	82	9.21e-39	blastx	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	XP_019547211.2	29.5	510	XP_019547211.2 uncharacterized protein LOC109417622 [Aedes albopictus]	271	1.6e-18	blastx	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	EDS43817.1	25.7	555	EDS43817.1 conserved hypothetical protein [Culex quinquefasciatus]	265	3.2e-16	blastx	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	XP_039441240.1	25.3	575	XP_039441240.1 uncharacterized protein LOC120421994 [Culex pipiens pallens]	265	8.16e-16	blastx	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	XP_038113868.1	25.7	575	XP_038113868.1 uncharacterized protein LOC6036475 [Culex quinquefasciatus]	265	1.5e-15	blastx	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	XP_052565832.1	25.0	490	XP_052565832.1 uncharacterized protein LOC128093355 [Culex pipiens pallens]	216	6.25e-09	blastx	NR
+Cluster-0.0_NODE_17290_length_1162_cov_3.766108_g9163_i0.p1	EDS44167.1	24.9	490	EDS44167.1 conserved hypothetical protein [Culex quinquefasciatus]	217	2.06e-08	blastx	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	XP_039432563.1	94.2	565	XP_039432563.1 juvenile hormone esterase-like [Culex pipiens pallens]	240	6.29e-151	blastx	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	XP_001864622.2	90.8	566	XP_001864622.2 cholinesterase 1 [Culex quinquefasciatus]	240	2.6e-145	blastx	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	EDS40467.1	90.4	566	EDS40467.1 esterase FE4 [Culex quinquefasciatus]	240	1.05e-144	blastx	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	XP_038109200.1	54.5	574	XP_038109200.1 esterase E4 [Culex quinquefasciatus]	233	6.14e-77	blastx	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	XP_039449043.1	53.2	574	XP_039449043.1 juvenile hormone esterase-like [Culex pipiens pallens]	233	1.34e-75	blastx	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	EDS28751.1	52.8	711	EDS28751.1 juvenile hormone esterase [Culex quinquefasciatus]	233	9.350000000000001e-73	blastx	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	KFB48524.1	54.9	580	KFB48524.1 AGAP005837-PA-like protein [Anopheles sinensis]	235	1.0100000000000001e-72	blastx	NR
+Cluster-4.0_NODE_23550_length_721_cov_3.757225_g13277_i0.p1	XP_035910509.1	53.4	579	XP_035910509.1 esterase E4-like [Anopheles stephensi]	236	1.3900000000000001e-72	blastx	NR
+Cluster-8.0_NODE_28859_length_464_cov_4.000000_g17746_i0.p1	EDS32713.1	98.1	1648	EDS32713.1 conserved hypothetical protein [Culex quinquefasciatus]	154	1.55e-64	blastx	NR
+Cluster-8.0_NODE_28859_length_464_cov_4.000000_g17746_i0.p1	XP_039433362.1	96.8	1648	XP_039433362.1 uncharacterized protein LOC120415804 [Culex pipiens pallens]	154	2.11e-64	blastx	NR
+Cluster-8.0_NODE_28859_length_464_cov_4.000000_g17746_i0.p1	KXJ77414.1	64.7	1520	KXJ77414.1 hypothetical protein RP20_CCG007671 [Aedes albopictus]	68	8.06e-14	blastx	NR
+Cluster-8.0_NODE_28859_length_464_cov_4.000000_g17746_i0.p1	EAT38793.1	58.8	1534	EAT38793.1 AAEL009355-PA [Aedes aegypti]	68	2.47e-10	blastx	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	EDS29594.1	96.0	526	EDS29594.1 cytochrome P450 [Culex quinquefasciatus]	149	8.05e-91	blastx	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	XP_038116655.1	95.3	431	XP_038116655.1 cytochrome P450 4V2 [Culex quinquefasciatus]	149	4.13e-89	blastx	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	XP_039440771.1	61.8	502	XP_039440771.1 cytochrome P450 4c21-like [Culex pipiens pallens]	136	4.36e-50	blastx	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	XP_001849069.2	61.8	505	XP_001849069.2 cytochrome P450 4c21 [Culex quinquefasciatus]	136	9.05e-50	blastx	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	EDS29595.1	61.0	499	EDS29595.1 cytochrome P450 4V2 [Culex quinquefasciatus]	136	1.6e-49	blastx	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	XP_039440770.1	59.2	498	XP_039440770.1 cytochrome P450 4V2-like [Culex pipiens pallens]	147	1.35e-46	blastx	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	EDS29597.1	59.2	498	EDS29597.1 cytochrome P450 4g15 [Culex quinquefasciatus]	147	1.8899999999999998e-46	blastx	NR
+Cluster-14.0_NODE_29262_length_448_cov_3.995227_g18130_i0.p1	XP_001849071.2	59.2	498	XP_001849071.2 cytochrome P450 4V2 [Culex quinquefasciatus]	147	7.279999999999999e-46	blastx	NR
+Cluster-15.0_NODE_26048_length_585_cov_5.757194_g15264_i0.p1	XP_039451360.1	99.5	506	XP_039451360.1 fibrinogen C domain-containing protein 1-like [Culex pipiens pallens]	195	1.68e-89	blastx	NR
+Cluster-15.0_NODE_26048_length_585_cov_5.757194_g15264_i0.p1	XP_039450538.1	99.5	506	XP_039450538.1 fibrinogen C domain-containing protein 1-like [Culex pipiens pallens]	195	1.68e-89	blastx	NR
+Cluster-15.0_NODE_26048_length_585_cov_5.757194_g15264_i0.p1	XP_001849696.2	98.5	504	XP_001849696.2 fibrinogen C domain-containing protein 1 [Culex quinquefasciatus]	195	7.14e-88	blastx	NR
+Cluster-15.0_NODE_26048_length_585_cov_5.757194_g15264_i0.p1	EDS30697.1	93.3	504	EDS30697.1 angiopoietin-4 [Culex quinquefasciatus]	195	7.170000000000001e-79	blastx	NR
+Cluster-15.0_NODE_26048_length_585_cov_5.757194_g15264_i0.p1	XP_001648766.1	40.2	442	XP_001648766.1 fibrinogen-like protein 1 [Aedes aegypti]	174	5.1e-25	blastx	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	XP_001849904.2	95.5	393	XP_001849904.2 uncharacterized protein LOC6040518 [Culex quinquefasciatus]	134	9.53e-88	blastx	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	EDS31027.1	94.8	393	EDS31027.1 conserved hypothetical protein [Culex quinquefasciatus]	134	1.5500000000000001e-86	blastx	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	EDS35496.1	73.6	386	EDS35496.1 conserved hypothetical protein [Culex quinquefasciatus]	129	1.08e-63	blastx	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	XP_038117163.1	72.9	377	XP_038117163.1 uncharacterized protein LOC6033568 [Culex quinquefasciatus]	129	6.76e-63	blastx	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	XP_039436891.2	71.3	386	XP_039436891.2 uncharacterized protein LOC120418521 [Culex pipiens pallens]	129	1.93e-61	blastx	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	XP_029721883.1	66.4	381	XP_029721883.1 uncharacterized protein LOC115263109 [Aedes albopictus]	134	2.3899999999999998e-61	blastx	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	XP_029721877.1	66.4	381	XP_029721877.1 uncharacterized protein LOC115263103 [Aedes albopictus]	134	2.3899999999999998e-61	blastx	NR
+Cluster-16.0_NODE_30629_length_402_cov_2.769437_g19454_i0.p1	XP_021698437.1	65.9	398	XP_021698437.1 uncharacterized protein LOC5574154 [Aedes aegypti]	132	1.05e-60	blastx	NR
+Cluster-17.0_NODE_27260_length_530_cov_4.636727_g16301_i0.p1	XP_039450100.1	100.0	349	XP_039450100.1 uncharacterized protein LOC120429030 [Culex pipiens pallens]	75	3.35e-44	blastx	NR
+Cluster-17.0_NODE_27260_length_530_cov_4.636727_g16301_i0.p1	XP_038114270.1	100.0	349	XP_038114270.1 uncharacterized protein LOC119768039 [Culex quinquefasciatus]	75	3.35e-44	blastx	NR
+Cluster-17.0_NODE_27260_length_530_cov_4.636727_g16301_i0.p1	KXJ74687.1	70.7	143	KXJ74687.1 hypothetical protein RP20_CCG013125 [Aedes albopictus]	75	1.2699999999999999e-23	blastx	NR
+Cluster-17.0_NODE_27260_length_530_cov_4.636727_g16301_i0.p1	XP_029709432.1	70.7	271	XP_029709432.1 uncharacterized protein LOC115255439 [Aedes albopictus]	75	2.45e-22	blastx	NR
+Cluster-17.0_NODE_27260_length_530_cov_4.636727_g16301_i0.p1	XP_029708712.1	70.7	391	XP_029708712.1 uncharacterized protein LOC109420547 [Aedes albopictus]	75	1.32e-21	blastx	NR
+Cluster-17.0_NODE_27260_length_530_cov_4.636727_g16301_i0.p1	XP_021702407.1	68.0	385	XP_021702407.1 uncharacterized protein LOC5577296 [Aedes aegypti]	75	1.23e-20	blastx	NR
+Cluster-17.0_NODE_27260_length_530_cov_4.636727_g16301_i0.p1	XP_035777916.1	60.0	365	XP_035777916.1 uncharacterized protein LOC118459019 isoform X2 [Anopheles albimanus]	75	9.27e-16	blastx	NR
+Cluster-17.0_NODE_27260_length_530_cov_4.636727_g16301_i0.p1	KFB38471.1	57.3	208	KFB38471.1 hypothetical protein ZHAS_00005873 [Anopheles sinensis]	75	1.79e-15	blastx	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	XP_038114270.1	95.8	349	XP_038114270.1 uncharacterized protein LOC119768039 [Culex quinquefasciatus]	191	3.03e-83	blastx	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	XP_039450100.1	95.9	349	XP_039450100.1 uncharacterized protein LOC120429030 [Culex pipiens pallens]	193	7.37e-79	blastx	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	EDS34439.1	89.7	215	EDS34439.1 predicted protein [Culex quinquefasciatus]	87	4.24e-37	blastx	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	XP_029708712.1	55.7	391	XP_029708712.1 uncharacterized protein LOC109420547 [Aedes albopictus]	97	5.89e-14	blastx	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	EAT34624.1	53.6	250	EAT34624.1 AAEL013148-PA [Aedes aegypti]	97	7.64e-13	blastx	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	XP_050078014.1	60.3	363	XP_050078014.1 uncharacterized protein LOC126564931 [Anopheles maculipalpis]	73	2.24e-12	blastx	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	XP_050095587.1	49.5	367	XP_050095587.1 uncharacterized protein LOC126577751 [Anopheles aquasalis]	99	2.29e-12	blastx	NR
+Cluster-28.0_NODE_22234_length_801_cov_4.253886_g12335_i0.p1	XP_021702407.1	53.6	385	XP_021702407.1 uncharacterized protein LOC5577296 [Aedes aegypti]	97	2.49e-12	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	XP_001845721.2	95.7	356	XP_001845721.2 trypsin-1 [Culex quinquefasciatus]	138	1.0700000000000001e-86	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	XP_052561988.1	97.1	1718	XP_052561988.1 uncharacterized protein LOC120415828 [Culex pipiens pallens]	139	8.95e-82	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	EDS41410.1	97.0	685	EDS41410.1 trypsin eta [Culex quinquefasciatus]	132	3.53e-80	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	XP_019561987.2	55.4	358	XP_019561987.2 trypsin-1-like [Aedes albopictus]	92	6.3099999999999994e-24	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	EAT40773.1	60.0	358	EAT40773.1 AAEL007519-PA [Aedes aegypti]	75	1.2299999999999998e-23	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	XP_001658406.2	58.7	358	XP_001658406.2 trypsin-1 [Aedes aegypti]	75	4.6199999999999997e-23	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	XP_040220907.2	52.7	351	XP_040220907.2 trypsin-1-like [Anopheles coluzzii]	93	1.14e-22	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p1	XP_052863784.1	64.3	1692	XP_052863784.1 LOW QUALITY PROTEIN: transmembrane protease serine 9-like [Anopheles cruzii]	70	1.4100000000000001e-22	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p2	XP_001845721.2	97.3	356	XP_001845721.2 trypsin-1 [Culex quinquefasciatus]	111	1.07e-71	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p2	EDS41410.1	97.3	685	EDS41410.1 trypsin eta [Culex quinquefasciatus]	111	2.06e-68	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p2	XP_052561988.1	99.1	1718	XP_052561988.1 uncharacterized protein LOC120415828 [Culex pipiens pallens]	111	7.349999999999999e-68	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p2	XP_019561987.2	55.4	358	XP_019561987.2 trypsin-1-like [Aedes albopictus]	92	1.06e-24	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p2	EAT40773.1	60.0	358	EAT40773.1 AAEL007519-PA [Aedes aegypti]	75	2.07e-24	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p2	XP_001658406.2	58.7	358	XP_001658406.2 trypsin-1 [Aedes aegypti]	75	7.859999999999999e-24	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p2	XP_040220907.2	52.7	351	XP_040220907.2 trypsin-1-like [Anopheles coluzzii]	93	1.9499999999999997e-23	blastx	NR
+Cluster-31.0_NODE_28313_length_486_cov_2.536105_g17243_i0.p2	XP_052863784.1	64.3	1692	XP_052863784.1 LOW QUALITY PROTEIN: transmembrane protease serine 9-like [Anopheles cruzii]	70	2.2099999999999997e-23	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p1	XP_001845721.2	98.6	356	XP_001845721.2 trypsin-1 [Culex quinquefasciatus]	148	2.48e-101	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p1	EDS41410.1	99.3	685	EDS41410.1 trypsin eta [Culex quinquefasciatus]	148	6.219999999999999e-98	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p1	XP_052561988.1	99.3	1718	XP_052561988.1 uncharacterized protein LOC120415828 [Culex pipiens pallens]	148	3.37e-93	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p1	XP_019561987.2	80.4	358	XP_019561987.2 trypsin-1-like [Aedes albopictus]	148	1.24e-79	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p1	EAT40773.1	78.9	358	EAT40773.1 AAEL007519-PA [Aedes aegypti]	147	1.63e-77	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p1	XP_001658406.2	78.9	358	XP_001658406.2 trypsin-1 [Aedes aegypti]	147	1.63e-77	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p1	CAA89994.1	71.6	250	CAA89994.1 serine proteinase, partial [Anopheles gambiae]	148	4.1199999999999995e-74	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p1	XP_313873.5	71.6	283	XP_313873.5 AGAP004568-PA, partial [Anopheles gambiae str. PEST]	148	1.17e-73	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	XP_001845721.2	98.6	356	XP_001845721.2 trypsin-1 [Culex quinquefasciatus]	148	2.48e-101	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	EDS41410.1	99.3	685	EDS41410.1 trypsin eta [Culex quinquefasciatus]	148	6.219999999999999e-98	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	XP_052561988.1	99.3	1718	XP_052561988.1 uncharacterized protein LOC120415828 [Culex pipiens pallens]	148	3.37e-93	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	XP_019561987.2	80.4	358	XP_019561987.2 trypsin-1-like [Aedes albopictus]	148	1.24e-79	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	EAT40773.1	78.9	358	EAT40773.1 AAEL007519-PA [Aedes aegypti]	147	1.63e-77	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	XP_001658406.2	78.9	358	XP_001658406.2 trypsin-1 [Aedes aegypti]	147	1.63e-77	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	CAA89994.1	71.6	250	CAA89994.1 serine proteinase, partial [Anopheles gambiae]	148	4.1199999999999995e-74	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p2	XP_313873.5	71.6	283	XP_313873.5 AGAP004568-PA, partial [Anopheles gambiae str. PEST]	148	1.17e-73	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p3	XP_001845721.2	99.0	356	XP_001845721.2 trypsin-1 [Culex quinquefasciatus]	101	9.94e-64	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p3	EDS41410.1	99.0	685	EDS41410.1 trypsin eta [Culex quinquefasciatus]	101	1.01e-60	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p3	XP_052561988.1	99.0	1718	XP_052561988.1 uncharacterized protein LOC120415828 [Culex pipiens pallens]	101	2.75e-59	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p3	XP_019561987.2	82.2	358	XP_019561987.2 trypsin-1-like [Aedes albopictus]	101	1.78e-50	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p3	EAT40773.1	80.0	358	EAT40773.1 AAEL007519-PA [Aedes aegypti]	100	1.12e-48	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p3	XP_001658406.2	80.0	358	XP_001658406.2 trypsin-1 [Aedes aegypti]	100	1.12e-48	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p3	CAA89994.1	71.3	250	CAA89994.1 serine proteinase, partial [Anopheles gambiae]	101	5.53e-46	blastx	NR
+Cluster-31.1_NODE_29326_length_446_cov_3.589928_g18192_i0.p3	XP_313873.5	71.3	283	XP_313873.5 AGAP004568-PA, partial [Anopheles gambiae str. PEST]	101	1.35e-45	blastx	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	XP_039441887.2	99.4	1396	XP_039441887.2 serine protease filzig [Culex pipiens pallens]	178	9.36e-107	blastx	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	XP_038113039.1	99.4	1321	XP_038113039.1 serine protease filzig [Culex quinquefasciatus]	174	1.6200000000000002e-103	blastx	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	EDS45199.1	98.9	1290	EDS45199.1 serine protease [Culex quinquefasciatus]	174	4.4100000000000004e-103	blastx	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	XP_039452120.2	97.7	1192	XP_039452120.2 serine protease filzig-like [Culex pipiens pallens]	174	5.57e-100	blastx	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	EAT35004.1	69.8	881	EAT35004.1 AAEL012797-PA [Aedes aegypti]	182	3.16e-72	blastx	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	XP_029709065.1	72.5	1379	XP_029709065.1 serine protease lint [Aedes albopictus]	182	1.07e-71	blastx	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	EAT37779.1	69.8	1309	EAT37779.1 AAEL010267-PA, partial [Aedes aegypti]	182	4.67e-71	blastx	NR
+Cluster-33.0_NODE_27082_length_538_cov_2.632613_g16153_i0.p1	XP_021702122.1	69.8	1344	XP_021702122.1 mucin-5AC isoform X2 [Aedes aegypti]	182	4.91e-71	blastx	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	XP_052565644.1	97.4	1302	XP_052565644.1 nuclear receptor coactivator 6-like isoform X1 [Culex pipiens pallens]	116	2.5899999999999998e-42	blastx	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	EDS45812.1	100.0	1174	EDS45812.1 conserved hypothetical protein [Culex quinquefasciatus]	52	6.37e-25	blastx	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	EAT40892.1	77.5	1134	EAT40892.1 AAEL007430-PA, partial [Aedes aegypti]	120	6.709999999999999e-23	blastx	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	XP_021698176.1	77.5	1249	XP_021698176.1 mucin-5AC [Aedes aegypti]	120	6.74e-23	blastx	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	XP_035786839.1	70.7	1364	XP_035786839.1 mucin-5AC-like [Anopheles albimanus]	116	9.07e-18	blastx	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	XP_050095302.1	67.2	1357	XP_050095302.1 mucin-5AC-like [Anopheles aquasalis]	116	2.03e-16	blastx	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	XP_041771976.1	65.3	1321	XP_041771976.1 mucin-2-like isoform X2 [Anopheles merus]	121	7.02e-16	blastx	NR
+Cluster-36.0_NODE_32376_length_349_cov_3.134375_g21188_i0.p1	XP_041771974.1	65.3	1325	XP_041771974.1 mucin-2-like isoform X1 [Anopheles merus]	121	7.02e-16	blastx	NR
+Cluster-38.0_NODE_15049_length_1363_cov_3.633433_g7847_i0.p1	XP_039433362.1	85.9	1648	XP_039433362.1 uncharacterized protein LOC120415804 [Culex pipiens pallens]	469	1.36e-169	blastx	NR
+Cluster-38.0_NODE_15049_length_1363_cov_3.633433_g7847_i0.p1	EDS32713.1	85.7	1648	EDS32713.1 conserved hypothetical protein [Culex quinquefasciatus]	469	7.26e-169	blastx	NR
+Cluster-38.0_NODE_15049_length_1363_cov_3.633433_g7847_i0.p1	EAT38793.1	27.3	1534	EAT38793.1 AAEL009355-PA [Aedes aegypti]	344	1.59e-14	blastx	NR
+Cluster-38.0_NODE_15049_length_1363_cov_3.633433_g7847_i0.p1	KXJ77414.1	26.0	1520	KXJ77414.1 hypothetical protein RP20_CCG007671 [Aedes albopictus]	338	1.04e-10	blastx	NR
+Cluster-38.1_NODE_28328_length_485_cov_2.938596_g17255_i0.p1	XP_039433362.1	94.4	1648	XP_039433362.1 uncharacterized protein LOC120415804 [Culex pipiens pallens]	162	7.679999999999999e-60	blastx	NR
+Cluster-38.1_NODE_28328_length_485_cov_2.938596_g17255_i0.p1	EDS32713.1	93.8	1648	EDS32713.1 conserved hypothetical protein [Culex quinquefasciatus]	162	1.05e-59	blastx	NR
