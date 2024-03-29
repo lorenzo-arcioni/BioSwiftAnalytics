@@ -158,7 +158,7 @@ You can use these post-processing and analysis tools in two main modes:
     mkdir results
     ```
     ```sh
-    docker run -p 8888:8888 -v $(pwd)/results:/home/jupyter/results/ -v $(pwd)/data/:/home/jupyter/data bioswiftanalysis &
+    docker run -p 8888:8888 -v $(pwd)/results:/home/jupyter/results/ -v $(pwd)/data/:/home/jupyter/data bioswiftanalytics -d
     ```
     *Note that you can choose other ports instead of 8888:.*
 
