@@ -158,7 +158,7 @@ You can use these post-processing and analysis tools in two main modes:
     mkdir results
     ```
     ```sh
-    docker run -p 8888:8888 -v $(pwd)/results:/home/jupyter/results/ -v $(pwd)/data/:/home/jupyter/data -d lorenzoarcioni/bioswiftanalytics
+    docker run -p 8888:8888 -v $(pwd)/results:/home/jupyter/results/ -v $(pwd)/data/:/home/jupyter/data -d --name bioswiftanalytics lorenzoarcioni/bioswiftanalytics
     ```
     *Note that you can choose other ports instead of 8888:.*
 
@@ -178,6 +178,11 @@ You can use these post-processing and analysis tools in two main modes:
     <p align="center">
     <img src="./Images/jupyter-article-img.jpg" height=600px style="margin-left: 40px">
     </p>
+
+    After the analysis process, you can stop and remove the docker container by using this command:
+    ```sh
+    docker stop bioswiftanalytics && docker remove bioswiftanalytics
+    ```
 
 2. ### Use all notebooks in your Jupyter environment
 
