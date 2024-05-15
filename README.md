@@ -167,9 +167,8 @@ You can use these post-processing and analysis tools in two main modes:
     #### Container and local filesystem
 
     The container has two main directories:
-    - The input data directory */home/jupyter/data/* .
-    - The output data directory */home/jupyter/results/* .
-    - The Notebooks directory */home/jupyter/notebooks/*
+    - The input data directory */home/jupyter/data/*
+    - The output data directory */home/jupyter/results/*
 
     That are linked with your **\$(pwd)/data/** and **\$(pwd)/results/** on your local filesystem.
 
