@@ -3,5 +3,7 @@
 /*.tsv
 /*.csv
 /*.c
+/*.tar
+/*.gz
 .vscode
 __pycache__
