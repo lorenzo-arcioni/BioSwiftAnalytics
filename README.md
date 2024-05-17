@@ -157,6 +157,21 @@ You can use these post-processing and analysis tools in two main modes:
     mkdir data
     mkdir results
     ```
+
+    Alternatively, you can use the test files by downloading the **TAR** archive from release section by running the following commands (from you current working directory).
+
+    ```sh
+    wget https://github.com/lorenzo-arcioni/BioSwiftAnalytics/releases/download/first-release/bioswiftanalytics.tar.gz
+    ```
+
+    And now exctract the archive in the current directory.
+
+    ```sh
+    tar -xzvf bioswiftanalytics.tar.gz && rm bioswiftanalytics.tar.gz
+    ```
+
+    Once you have created the right environment, you can start the docker container.
+
     ```sh
     docker run -p 8888:8888 -v $(pwd)/results:/home/jupyter/results/ -v $(pwd)/data/:/home/jupyter/data -d --name bioswiftanalytics lorenzoarcioni/bioswiftanalytics
     ```
@@ -201,7 +216,7 @@ You can use these post-processing and analysis tools in two main modes:
 your_current_directory/
 |-- notebooks/
 |   |-- AnnoRate.ipynb/
-|   |-- AnnoReport.ipynb/
+|   |-- AnnoDegsReport.ipynb/
 |   |-- AnnoViz.ipynb
 |   |-- busco-base-plot.ipynb
 |   |-- busco-advanced-plot.ipynb
@@ -211,13 +226,12 @@ your_current_directory/
 |   |-- Orthofinder-plot.ipynb
 |
 |-- data/
-|   |-- config/
-|       |-- settings.conf
+|   |-- tables/
+|       |-- [Input tables]
+|   |-- [Input files]
 |
 |-- results/
-|   |-- logs/
-|       |-- log1.txt
-|       |-- log2.txt
+|   |-- [Output images/graphs/files]
 ```
 
 Happy analyzing!
