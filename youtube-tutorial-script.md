@@ -106,7 +106,7 @@ docker stop bioswiftanalytics && docker remove bioswiftanalytics
 
 ### [Section 9: Conclusion]
 
-**Host**: "And that’s it! You’ve successfully installed and set up BioswiftAnalytics using Docker. Now you’re ready to dive into your bioinformatics analyses with a powerful set of tools at your disposal. If you found this tutorial helpful, please give it a thumbs up and subscribe to our channel for more tutorials like this. Thanks for watching, and happy analyzing!"
+**Host**: "And that’s it! You’ve successfully installed and set up BioswiftAnalytics using Docker. Now you’re ready to dive into your bioinformatics analyses with a powerful set of tools at your disposal. If you found this tutorial helpful, please give it a thumbs up and subscribe to our channel for more tutorials like this. In the next tutorial, I'll show you how to use the first notebook of this series. So see you in the next video!"
 
 *up to 10 mins*
 ## Jupyter notebook for Hit Rate Comparison (AnnoRate)

@@ -148,7 +148,7 @@ You can use these post-processing and analysis tools in two main modes:
     You can download the package (Docker image) containing all these tools and the Jupyter runtime environment using this command.
 
     ```sh
-    docker pull lorenzoarcioni/bioswiftanalysis
+    docker pull lorenzoarcioni/bioswiftanalytics
     ```
     Once the image is downloaded you are ready to run the container!
 
