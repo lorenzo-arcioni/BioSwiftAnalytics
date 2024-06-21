@@ -48,7 +48,7 @@ docker pull lorenzoarcioni/bioswiftanalytics
 
 ### [Section 4: Setting Up Directories]
 
-**Host**: "While the Docker image is downloading, let’s set up a couple of directories on your local machine. These directories will help us link the container's filesystem with our local filesystem, making it easy to transfer data in and out of the container."
+**Host**: "Let’s now set up a couple of directories on your local machine. These directories will help us link the container's filesystem with our local filesystem, making it easy to transfer data in and out of the container."
 
 **[Cut to Screen Recording: Terminal]**
 **[On-Screen Text]**
@@ -59,6 +59,8 @@ mkdir results
 
 **Host**: "What we’re doing here is creating two directories named 'data' and 'results'. The 'data' directory will hold the input files for our analyses, and the 'results' directory will store the output files, such as graphs and tables."
 
+In this case, we use the test files by downloading the TAR archive from release section by running the following wget command. In this way, we have automatically set up our filesystem structure and files.
+
 ### [Section 5: Running the Docker Container]
 
 **Host**: "Now that we have our directories set up and the Docker image downloaded, we can run the Docker container. This is where the magic happens! In your terminal, enter the following command:"
@@ -68,7 +70,9 @@ mkdir results
 docker run -p 8888:8888 -v $(pwd)/results:/home/jupyter/results/ -v $(pwd)/data:/home/jupyter/data -d --name bioswiftanalytics lorenzoarcioni/bioswiftanalytics
 ```
 
-**Host**: "Let me break down what this command does:
+**Host**: "This command run the docker container mapping the local filesystem directories to the container directories. In this way, the two directories are linked and perfectly synchronized. 
+
+
 
 - `-p 8888:8888` maps port 8888 of the container to port 8888 on your local machine, so we can access Jupyter notebooks via our web browser.
 - `-v $(pwd)/results:/home/jupyter/results/` links the local 'results' directory to the container’s '/home/jupyter/results/' directory.
@@ -129,11 +133,89 @@ This notebook is capable of generating summary reports in XSLX or TSV format, co
 
 Interpreting homology annotation results accurately and comprehensively is important because it can affect the quality and reliability of downstream analyses and experiments. Homology annotation is a powerful tool used to infer the function of a newly sequenced protein based on its similarity to proteins of known function. However, these annotations are not always perfect and can contain errors and biases, such as incorrect alignments or over-reliance on certain databases.
 
-So, visualize homology annotation results accurately and comprehensively is crucial for ensuring the quality and reliability of downstream analyses and experiments, and can also lead to new discoveries and insights.
+With this notebook you can visualise all information contained in the alignment result file.
+
+So let's get into it.
+
+---------------------------------------------
+
+This Jupyter Notebook is designed to facilitate the analysis of homology-based annotation data produced by BLAST or Diamond software. It enables users to create insightful graphs and reports, simplifying the interpretation of tabular annotation files. To run this notebook, make sure you have the pandas, matplotlib, numpy, ipywidgets, and math libraries installed. They are already installed in the environment inside the docker container.
+
+By engaging with interactive code examples and visual tools, users will learn to handle and visualize data derived from homology-based annotation workflows. This notebook allows users to swiftly and easily delve into their annotation data, revealing deeper insights into biological processes.
+
+By following the instructions provided, users will be guided through the process of setting the parameters for their analysis. Once these parameters have been set, users can execute the notebook's cells one by one. It is strongly recommended that users follow the instructions step-by-step to ensure proper use of the tool.
+
+1. **Import Libraries**
+
+   Execute the following cell to import the essential libraries and initialize default settings.
+
+2. **Configure Parameters**
+
+   In this section, users need to set parameters related to the files they wish to analyze. Start by specifying the location of the results file. Next, provide the output format used during the alignment process.
+
+   [Video Sketch on Output Format 6]
+
+   Additionally, users can enter the initial part of the title for all generated graphs. Lastly, define the path for saving the output files.
+
+3. **Filter Significant Hits**
+
+   This cell helps users retain only the most significant hit for each sequence, discarding all other hits from the dataframe. You can set the number of hits to take into consideration in the following steps.
+
+4. **Analyze Protein Function Hit Rate**
+
+   This section allows users to create bar charts showcasing the most common protein functions identified across input sequences.
+
+   - **Accession Graph**: Illustrates the number of hits associated with each protein accession in the BLAST or Diamond results.
+     
+     Run the cell to compute the accession rate.
+   
+   - **Select Annotation Database**: Choose the database used for annotation since storage systems vary across databases.
+     
+     Execute the cell to apply changes.
+
+   - **Protein Function Bar Chart**: Generates a bar chart counting protein function names related to the annotation.
+     
+     Execute the cell below to generate the chart!
+
+5. **Organism Hit Rate Analysis**
+
+   Similar to the protein function analysis, this section provides bar charts to identify common organisms found in input sequences.
+
+   - **Scientific Names Bar Chart**: Displays bar charts based on the frequency of organisms.
+     
+     Execute the cell below to create the chart!
+
+6. **Hit Count Bar Chart**
+
+   Create a bar chart showing the number of hits for each match in the annotation results.
+
+7. **E-value Distribution Analysis**
+
+   This section generates a histogram representing the distribution of E-values for all hits in the annotation results.
+
+   Execute the cell below to create the histogram!
+
+8. **Bit-score Distribution Analysis**
+
+   Produce a histogram illustrating the distribution of bit-scores for each match in the annotation results.
+
+9. **Length and Similarity Distribution**
+
+   - **Length Distribution Chart**: Shows the distribution of sequence lengths, aiding in assessing alignment performance.
+     
+     Run the cell below to plot the chart!
+
+   - **Similarity Distribution Chart**: Displays the distribution of sequence similarity percentages.
+     
+     Execute the cell below to plot the chart!
+    
+By following the steps outlined in this Jupyter Notebook, you can comprehensively analyze homology-based annotation results and gain valuable insights into your biological data. The visualizations and reports generated will assist in understanding the quality and significance of your annotations. We hope this notebook serves as a powerful tool in your research, enabling you to explore and interpret your data with ease. In the next video I will show you how to use the second notebook in our repository. Thanks for watching!
+
+---------------------------------------------
 
 This Jupyter Notebook support the analysis of homology-based annotation results, generated by BLAST or Diamond softwares, allowing users to generate informative graphs and plots to aid in the interpretation of tabular files obtained during the alignment process.
 
-So let's get into it.
+I hope you found this tutorial helpful and if you have any questions, feel free to leave them in the comments below. Thanks for watching!
 
 *1 min*
 
