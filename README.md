@@ -13,9 +13,19 @@ There are two main notebook groups for two different biological research fields:
 - Transcriptomic data analysis
 - Genomic data analysis
 
-## Notebook Descriptions
+## Notebooks Overview
 
-### 1. AnnoRate: Hit Rate Comparison
+### 1. AnnoDegsReport: Multi-database Annotation Summary
+
+**Group:** Transcriptomic data analysis.
+
+**Input:** ALL BLAST/Diamond alignment TSV results (blastx and blastp vs all database) and Deseq2 output table.
+
+This notebook is capable of generating summary reports in XSLX or TSV format, consolidating the annotation results of a specific transcriptome obtained by running alignment software (Diamond and BLAST) against various sequence databases. Additionally, this notebook can create links to the accession numbers for the input transcript sequences that mapped to the database, as well as resources on the NCBI and UniProt portals.
+
+<img src="./Images/report_table.png">
+
+### 2. AnnoRate: Hit Rate Comparison
 
 **Group:** Transcriptomic data analysis.
 
@@ -25,16 +35,6 @@ This notebook analyzes the hit percentages for sequences across various database
 <p align="center">
 <img src="./Images/rate.png">
 </p>
-
-### 2. AnnoDegsReport: Multi-database Annotation Summary
-
-**Group:** Transcriptomic data analysis.
-
-**Input:** ALL BLAST/Diamond alignment TSV results (blastx and blastp vs all database) and Deseq2 output table.
-
-This notebook is capable of generating summary reports in XSLX or TSV format, consolidating the annotation results of a specific transcriptome obtained by running alignment software (Diamond and BLAST) against various sequence databases. Additionally, this notebook can create links to the accession numbers for the input transcript sequences that mapped to the database, as well as resources on the NCBI and UniProt portals.
-
-<img src="./Images/report_table.png">
 
 ### 3.AnnoViz: A Jupyter Notebook for Enhanced Annotation Result Interpretation
 
